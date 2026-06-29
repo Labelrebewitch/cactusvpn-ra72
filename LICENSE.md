@@ -1,4 +1,4 @@
-
+new Trust.Zone App | P2P-support + multi-protocol-support is the best Trust.Zone app, featuring P2P-support and multi-protocol-support. Secure, fast, and optimized for privacy.
 
 
 
